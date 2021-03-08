@@ -1,1 +1,1 @@
-# Dice-game
+Each player has 2 types of score: current and final. Player rolls dice and output is added to current score. If player decides to hold, the current score is added to final one and opponent starts playing. One who reaches 30 is winner. If output of dice is 1, player's current score becomes zero and his/her turn switches to opponent.
